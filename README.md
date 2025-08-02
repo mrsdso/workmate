@@ -4,7 +4,7 @@
 ```python main.py --file example.log --report average```
 
 ## Множественные файлы  
-```python main.py --file log1.log --file log2.log --report average```
+```python main.py --file example.log --file example2.log --report average```
 
 ### С фильтром по дате
 ```python main.py --file example.log --report average --date 2025-06-22```
