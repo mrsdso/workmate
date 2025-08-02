@@ -9,9 +9,6 @@
 ### С фильтром по дате
 ```python main.py --file example.log --report average --date 2025-06-22```
 
-## Тесты с покрытием
-```pytest --cov=log_analyzer --cov-report=term```
-
 # Примеры вывода
 
 ## Отчет average
